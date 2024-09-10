@@ -15,16 +15,11 @@ This is a test automation framework for mobile applications using **Appium**, **
 
 ## Installation
 
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-repository-name
-   cd your-repository-name
-   ```
-2. Install Node.js dependencies:
+1. Install Node.js dependencies:
     ```bash
    npm install
    ```
-3. Make sure your Android SDK environment is set up correctly:
+2. Make sure your Android SDK environment is set up correctly:
     ```bash
    export ANDROID_SDK_ROOT=<path_to_android_sdk>
    export JAVA_HOME=<path_to_jdk>
